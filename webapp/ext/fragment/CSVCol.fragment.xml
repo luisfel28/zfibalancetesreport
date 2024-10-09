@@ -1,0 +1,14 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns:table="sap.ui.table" xmlns="sap.m">
+    <!--     <Column id="FioriTools::CSVLink">
+        <Text text="Ficheiro"/>
+        <customData>
+            <core:CustomData key="p13nData" value="\{&quot;columnIndex&quot;: &quot;1&quot;, &quot;columnKey&quot;: &quot;CSVLink&quot;}"/>
+        </customData>
+    </Column> -->
+    <Column id="FioriTools::CSVLink" hAlign="Center">
+        <Text text="CSV"/>
+        <customData>
+            <core:CustomData key="p13nData" value="\{&quot;columnIndex&quot;: &quot;6&quot;, &quot;leadingProperty&quot;: &quot;guid&quot;, &quot;columnKey&quot;: &quot;CSVLink&quot;}"/>
+        </customData>
+    </Column>
+</core:FragmentDefinition>

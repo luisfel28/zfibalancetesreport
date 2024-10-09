@@ -1,0 +1,9 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m">
+    <Button 
+    icon="sap-icon://document-text" 
+    visible="true"
+    press="onPress"
+    text="Download"
+    tooltip="Balancete {filename}" 
+    />
+</core:FragmentDefinition>
