@@ -6,7 +6,7 @@
         </customData>
     </Column> -->
     <Column id="FioriTools::CSVLink" hAlign="Center">
-        <Text text="CSV"/>
+        <Text text="CSV321"/>
         <customData>
             <core:CustomData key="p13nData" value="\{&quot;columnIndex&quot;: &quot;6&quot;, &quot;leadingProperty&quot;: &quot;guid&quot;, &quot;columnKey&quot;: &quot;CSVLink&quot;}"/>
         </customData>
